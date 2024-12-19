@@ -7,7 +7,6 @@ separate-locales: false
 finish-args:
   - --socket=fallback-x11
   - --socket=wayland
-  - --share=network
   - --share=ipc
   - --device=dri
 modules:
@@ -29,5 +28,6 @@ modules:
        - ln -s /usr/lib/x86_64-linux-gnu/libsqlite3.so.0 /app/lib/libsqlite3.so
     sources:
       - type: file
-        url: https://gitlab.com/-/project/17175284/uploads/24bdde2b54f361bac587e41285df2180/biblemultithelife.tar.gz
-        sha256: 026612b8bac81cb080a50280f15b5f8bd35ae199833d476c12ef31d13243aa92
+        url: https://gitlab.com/-/project/17175284/uploads/5da7f7b70ed485b9c614293ec6801424/biblemultithelife.tar.gz
+        sha256: 2f26325a04ed39776c0ae4ed09c6f60e6a5a181a725efb1e49b8f35a65785a30
+
