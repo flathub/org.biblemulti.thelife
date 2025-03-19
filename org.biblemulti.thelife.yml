@@ -27,6 +27,6 @@ modules:
        - ln -s /app/biblemultithelife /app/bin/biblemultithelife
        - ln -s /usr/lib/x86_64-linux-gnu/libsqlite3.so.0 /app/lib/libsqlite3.so
     sources:
-      - type: file
-        url: https://gitlab.com/-/project/17175284/uploads/c8458640638067f5ab1e0afde80b05b9/biblemultithelife.tar.gz
-        sha256: fec17206547a4528d14efafde6d731a545e773824b4c77cab1e6252710b6a8c6
+       - type: file
+         url: https://gitlab.com/-/project/17175284/uploads/edbeac86e7f78d1d88dfc064ab293382/biblemultithelife.tar.gz
+         sha256: 68bf49c159080f2f4ed9ab2988cd8b0ff7ca69dc0e97dab2a638e133ad715821
