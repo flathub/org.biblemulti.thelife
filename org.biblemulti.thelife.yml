@@ -34,10 +34,10 @@ modules:
          fi
     sources:
        - type: file
-         url: https://gitlab.com/-/project/17175284/uploads/2446a1e1b3fc583cc3749fead0ae16d2/biblemultithelife.tar.gz
-         sha256: 2561692163bd23160bf227265686b7a2d5be0c14586db2cf1b0a49672b787398
+         url: https://gitlab.com/-/project/17175284/uploads/e79c45de200e7fe21c800172d65268d3/biblemultithelife.tar.gz
+         sha256: f2bf0d76603351c7ba67e61159cb282bac26a740adcced5fa281377e520262c0
          only-arches: [x86_64]
        - type: file
-         url: https://gitlab.com/-/project/17175284/uploads/8e66a53d90503f1b764a422588aac404/biblemultithelife.tar.gz
-         sha256: b0d9955edb18e420f65df70448b792663ddcb7492676e446f48396e06d4f6968
+         url: https://gitlab.com/-/project/17175284/uploads/f429e6c2747e78216e572bc0b3b492cb/biblemultithelife.tar.gz
+         sha256: 0cd259761b363cc12ab8cc99e59fbb921c1431d7298ed97793de47cf42bfae4c
          only-arches: [aarch64]
