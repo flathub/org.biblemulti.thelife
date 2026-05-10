@@ -1,6 +1,6 @@
 app-id: org.biblemulti.thelife
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 command: biblemultithelife
 separate-locales: false
