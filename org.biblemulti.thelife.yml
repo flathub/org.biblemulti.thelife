@@ -1,6 +1,6 @@
 app-id: org.biblemulti.thelife
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 command: biblemultithelife
 separate-locales: false
@@ -34,10 +34,10 @@ modules:
          fi
     sources:
        - type: file
-         url: https://gitlab.com/-/project/17175284/uploads/e79c45de200e7fe21c800172d65268d3/biblemultithelife.tar.gz
-         sha256: f2bf0d76603351c7ba67e61159cb282bac26a740adcced5fa281377e520262c0
+         url: https://gitlab.com/-/project/17175284/uploads/3be57b23c8be73409f05547f92dd3347/biblemultithelife.tar.gz
+         sha256: fde8bebb717da67f6a3f6b8172df898323ca799eef73ef6764a9633fd7581210
          only-arches: [x86_64]
        - type: file
-         url: https://gitlab.com/-/project/17175284/uploads/f429e6c2747e78216e572bc0b3b492cb/biblemultithelife.tar.gz
-         sha256: 0cd259761b363cc12ab8cc99e59fbb921c1431d7298ed97793de47cf42bfae4c
+         url: https://gitlab.com/-/project/17175284/uploads/92825eed2378986f6967388b10d8026d/biblemultithelife.tar.gz
+         sha256: d324965828d5546726e17a386660a0ed28e61e2cc096390707ed949b7fa18a39
          only-arches: [aarch64]
